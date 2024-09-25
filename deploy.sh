@@ -14,4 +14,5 @@ git commit -m 'auto deploy'
 
 # 将打包后的文件推送到指定分支
 
-git push -f https://github.com/gorvi/guoqing.git main:static-pages
+# git push -f https://github.com/gorvi/guoqing.git main:static-pages
+git push -f https://gorvi.github.io/guoqing/ main:static-pages
